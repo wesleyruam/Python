@@ -24,4 +24,4 @@ my_pass = PasswordGenerator(qtd_letter_lower=2, qtd_number=3)
 my_pass.add_password()
 ```
 
-**Observação:** Os bugs do código ainda estão sendo concertados.
+**Observação:** Os bugs do código ainda estão sendo arrumados.
