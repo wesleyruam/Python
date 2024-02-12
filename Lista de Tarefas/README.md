@@ -32,10 +32,10 @@ Este script em Python implementa uma aplicação simples de lista de tarefas usa
 
     ```python
     # Dentro do método __init__ da classe ListaTarefas
-    HOST = 'localhost'
-    USER = 'root'
-    PASS = 'pass!word'
-    DB = 'ListaTarefas'
+    HOST = 'HOST'
+    USER = 'USERNAME'
+    PASS = 'PASSWORD'
+    DB = 'DATABASE'
     ```
 
 3. Execute o script:
